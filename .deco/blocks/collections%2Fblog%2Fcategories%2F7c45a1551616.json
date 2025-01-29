@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/7c45a1551616",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Livros",
+    "slug": "Livros"
+  }
+}

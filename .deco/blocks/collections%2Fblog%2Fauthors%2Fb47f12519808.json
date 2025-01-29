@@ -1,0 +1,11 @@
+{
+  "name": "collections/blog/authors/b47f12519808",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Victor",
+    "email": "victor@frontmondo.com.br",
+    "avatar": "https://data.decoassets.com/frontmondostore/607132be-0d4f-41b1-8c1e-8d8909ed7603/Unsplash-picture.jpg",
+    "jobTitle": "Developer",
+    "company": "Frontmondo"
+  }
+}

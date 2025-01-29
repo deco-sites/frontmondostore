@@ -1,0 +1,20 @@
+{
+  "name": "collections/blog/posts/c69b0eeb38cf",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [],
+    "extraProps": [
+      {
+        "key": "video",
+        "value": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5PN_6bOZBTs?si=qteifsuCdnDzXgUw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    ],
+    "title": "Lorem Ipsum",
+    "excerpt": "Lorem Ipsum",
+    "date": "2025-01-16",
+    "slug": "lorem",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nunc nisl, eleifend vitae molestie in, mattis in diam. Nam semper, turpis nec facilisis dignissim, purus dolor porta justo, id varius sapien massa vel turpis. Etiam consectetur, dolor id convallis convallis, ligula ligula interdum turpis, a placerat orci magna ac odio. Cras dictum nulla orci, id congue est elementum ut. Donec vehicula et lacus a lobortis. Vestibulum iaculis, velit sit amet consectetur gravida, urna nisi dignissim nulla, eget efficitur justo libero vitae metus. Aliquam ut lobortis elit, eget ultrices est.</p><p></p><p style=\"text-align: justify\">Cras arcu lorem, pellentesque sit amet accumsan eu, posuere ut lorem. Maecenas euismod urna sit amet ligula ultrices, non elementum ex congue. Integer ultrices cursus ipsum, vel blandit orci vestibulum at. Morbi nulla turpis, posuere a convallis sed, efficitur at tellus. Curabitur a interdum lorem. Praesent non tincidunt massa. Suspendisse cursus felis lobortis felis sagittis hendrerit.</p><p style=\"text-align: justify\">Nulla convallis erat vitae sagittis molestie. Donec at suscipit turpis, mattis sollicitudin mauris. Ut vehicula nisl mauris, eget congue arcu aliquam in. Etiam maximus diam quis erat tristique, in convallis erat semper. Curabitur ut nulla arcu. Aliquam feugiat nec mi a molestie. Mauris id lobortis tellus, eu tincidunt dui. Donec pellentesque magna dolor, non posuere nunc facilisis sed. Sed ipsum lacus, congue vel purus ut, interdum pretium tellus. Vivamus efficitur nunc eget maximus condimentum. Nullam commodo, mi non sollicitudin porta, est purus hendrerit ex, sed eleifend nisi leo non velit. Phasellus nec tempus metus, id vestibulum nisl. Donec ultricies ac dui ac dapibus. Quisque pulvinar hendrerit sapien at convallis.</p><p style=\"text-align: justify\">Praesent eu bibendum quam. Curabitur at sapien orci. Nullam quis mattis nunc. Vestibulum convallis diam in tempus consectetur. Integer mollis eros libero, eu lobortis nisl venenatis vitae. Curabitur lorem odio, elementum eu porttitor eu, malesuada quis sem. Vivamus a ante nec leo ullamcorper sodales id ut ligula. Integer id libero non sem pellentesque posuere.</p><p style=\"text-align: justify\">Etiam auctor ipsum at ex placerat, vitae scelerisque quam pretium. Praesent vel nibh nec ante porta dignissim ut ut est. Mauris malesuada porttitor elementum. Vestibulum sit amet ligula ipsum. Integer blandit mattis aliquet. Quisque eget porttitor odio. Ut tempus sapien sed mauris hendrerit aliquet. Pellentesque scelerisque tellus in varius porta. Sed molestie lacus ac elit dignissim feugiat.</p>",
+    "readTime": 2
+  }
+}
